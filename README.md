@@ -3,18 +3,17 @@
 
 ## ✅ **LAST MAJOR UPDATES**
 
-   - First commit with Theme, Font, Color and App Logo.
-   - Added README.
+   - Implemented constant UI and ViewModel.
       
 ## ❌ **NEXT UPDATES**
 
-   - Implement UI and ViewModel.
+   - Implement Room : Entity, DAO, Repository and AppContainer for injection. 
 
 ## 📋 **Features**
 
    - 🗂 Bus Schedule :
 
-      - ❌ **NOT IMPLEMENTED** Display bus stops with scheduled departure times.
+      - 🟩 **IN PROGRESS** Display bus stops with scheduled departure times.
 
    - 🎨 Modern and Fluid Interface:
 
@@ -23,7 +22,7 @@
       - ❌ **NOT IMPLEMENTED** Responsive layout with adaptive UI.
 
       - TopBar:
-         - ❌ **NOT IMPLEMENTED** Display application title and possible future actions.
+         - 🟩 **IN PROGRESS** Display application title and possible future actions.
 
       - Light/Dark Mode:
          - ✅ **DONE** Supports **light/dark mode**.
@@ -34,8 +33,8 @@
 
    - 🔄 Real-time status management:
 
-      - ❌ **NOT IMPLEMENTED** Use of StateFlow for UI state handling.
-      - ❌ **NOT IMPLEMENTED** ViewModel for lifecycle-aware logic.
+      - 🟩 **IN PROGRESS** Use of StateFlow for UI state handling.
+      - 🟩 **IN PROGRESS** ViewModel for lifecycle-aware logic.
       - ❌ **NOT IMPLEMENTED** Coroutines for async data operations.
 
    - 📦 Data Persistence:
@@ -45,8 +44,8 @@
 
    - 🧠 Architecture & Code Structure:
 
-      - ❌ **NOT IMPLEMENTED** MVVM architecture pattern.
-      -❌ **NOT IMPLEMENTED** Clean separation between UI and business logic.
+      - 🟩 **IN PROGRESS** MVVM architecture pattern.
+      - 🟩 **IN PROGRESS** Clean separation between UI and business logic.
 
    - 🚀 Performance and responsiveness:
    
