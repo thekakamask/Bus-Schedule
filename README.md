@@ -3,26 +3,26 @@
 
 ## ✅ **LAST MAJOR UPDATES**
 
-   - Implemented constant UI and ViewModel.
+   - Implement Room : Entity, DAO, Repository and AppContainer for injection.
       
 ## ❌ **NEXT UPDATES**
 
-   - Implement Room : Entity, DAO, Repository and AppContainer for injection. 
+   - This App is now finish
 
 ## 📋 **Features**
 
    - 🗂 Bus Schedule :
 
-      - 🟩 **IN PROGRESS** Display bus stops with scheduled departure times.
+      - ✅ **DONE** Display bus stops with scheduled departure times.
 
    - 🎨 Modern and Fluid Interface:
 
-      - ❌ **NOT IMPLEMENTED** Follows Material Design 3 guidelines.
-      - ❌ **NOT IMPLEMENTED** Smooth transitions with Navigation Component.
-      - ❌ **NOT IMPLEMENTED** Responsive layout with adaptive UI.
+      - ✅ **DONE** Follows Material Design 3 guidelines.
+      - ✅ **DONE** Smooth transitions with Navigation Component.
+      - ✅ **DONE** Responsive layout with adaptive UI.
 
       - TopBar:
-         - 🟩 **IN PROGRESS** Display application title and possible future actions.
+         - ✅ **DONE** Display application title and possible future actions.
 
       - Light/Dark Mode:
          - ✅ **DONE** Supports **light/dark mode**.
@@ -33,23 +33,23 @@
 
    - 🔄 Real-time status management:
 
-      - 🟩 **IN PROGRESS** Use of StateFlow for UI state handling.
-      - 🟩 **IN PROGRESS** ViewModel for lifecycle-aware logic.
-      - ❌ **NOT IMPLEMENTED** Coroutines for async data operations.
+      - ✅ **DONE** Use of StateFlow for UI state handling.
+      - ✅ **DONE** ViewModel for lifecycle-aware logic.
+      - ✅ **DONE** Coroutines for async data operations.
 
    - 📦 Data Persistence:
 
-      - ❌ **NOT IMPLEMENTED** Persist schedule data locally using Room (SQLite).
-      - ❌ **NOT IMPLEMENTED** Automatically restore schedule after app restart.
+      - ✅ **DONE** Persist schedule data locally using Room (SQLite).
+      - ✅ **DONE** Automatically restore schedule after app restart.
 
    - 🧠 Architecture & Code Structure:
 
-      - 🟩 **IN PROGRESS** MVVM architecture pattern.
-      - 🟩 **IN PROGRESS** Clean separation between UI and business logic.
+      - ✅ **DONE** MVVM architecture pattern.
+      - ✅ **DONE** Clean separation between UI and business logic.
 
    - 🚀 Performance and responsiveness:
    
-      - ❌ **NOT IMPLEMENTED** Optimize UI scrolling and animations.
+      - ✅ **DONE** Optimize UI scrolling and animations.
       
    - 🛠 Error Handling & User Feedback:
 
@@ -70,11 +70,11 @@
    
 ## 🚀 **How to Use**
    
-    ❌ **THIS SECTION IS NOT IMPLEMENTED YET**
+    ❌ **THIS SECTION WILL NOT BE IMPLEMENTED**
 
 ## 📸 **Screenshots**
 
-   ❌ **THIS SECTION IS NOT IMPLEMENTED YET**
+   ❌ **THIS SECTION WILL NOT BE IMPLEMENTED**
 
 ## 🤝 **Contributions**
 Contributions are welcome! Feel free to fork the repository and submit a pull request for new features or bug fixes✅🟩❌.
